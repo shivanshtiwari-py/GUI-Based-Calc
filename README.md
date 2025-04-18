@@ -1,4 +1,4 @@
-# 🧠 Smart Aesthetic Calculator
+# GUI Calculator
 
 A modern and smart calculator with a clean, intuitive GUI built using Python's Tkinter. Featuring a dark/light mode toggle, history tracking, clipboard copy on click, and more—all wrapped in a sleek aesthetic interface.
 
